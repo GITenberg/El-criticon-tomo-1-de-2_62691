@@ -1,0 +1,44 @@
+_repo: El-criticon-tomo-1-de-2_62691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gracián y Morales, Baltasar
+    aliases:
+    - Gracián, Baltazar
+    - Gracian, Balthasar
+    - Gracian y Morales, Baltasar
+    - Morales, Baltasar Gracián y
+    - Gracián, Baltasar
+    - Gracián, Lorenzo
+    birthdate: 1601
+    deathdate: 1658
+    gutenberg_agent_id: '52080'
+    url: http://www.gutenberg.org/2009/agents/52080
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n
+    - https://en.wikipedia.org/wiki/Baltasar_Graci%C3%A1n
+  editor:
+    agent_name: Cejador y Frauca, Julio
+    aliases:
+    - Cejador, Julio
+    - Frauca, Julio Cejador y
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '6831'
+    url: http://www.gutenberg.org/2009/agents/6831
+    wikipedia: http://es.wikipedia.org/wiki/Julio_Cejador_y_Frauca
+description: ''
+gutenberg_issued: '2020-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62691'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- Classical period, 1500-1700'
+- GITenberg
+title: El criticón (tomo 1 de 2)
+url: http://www.gutenberg.org/ebooks/62691
